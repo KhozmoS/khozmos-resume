@@ -1,1 +1,1 @@
-# khozmos-resume
+# KhozmoS Resume
